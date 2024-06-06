@@ -1,4 +1,8 @@
 ![BigBanner_transparent](https://github.com/ShuraBlack/SaveFlash/assets/69372954/febfba39-593f-4e6b-9baa-091820c98aee)
+![Static Badge](https://img.shields.io/badge/Download-Github_Release-blue?style=for-the-badge&logo=github&logoColor=blue) ![Static Badge](https://img.shields.io/badge/Supported_Games-16-orange?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Open_Beta-Launch-green?style=for-the-badge)
+ ![Static Badge](https://img.shields.io/badge/Closed_Source--purple?style=for-the-badge)
+
+
 
 Do you ever had the problem that your friend hosted a game session and went offline?
 Not anymore, since Save Flash is here to save the day!
