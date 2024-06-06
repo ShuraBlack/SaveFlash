@@ -1,4 +1,4 @@
-![Banner](https://github.com/ShuraBlack/SaveFlash/assets/69372954/5acbb168-a266-4851-bd68-e1b39d0ee7f1)
+![BigBanner_transparent](https://github.com/ShuraBlack/SaveFlash/assets/69372954/febfba39-593f-4e6b-9baa-091820c98aee)
 
 Do you ever had the problem that your friend hosted a game session and went offline?
 Not anymore, since Save Flash is here to save the day!
