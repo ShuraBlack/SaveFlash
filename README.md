@@ -15,7 +15,7 @@ Why spend money for a single server, when you can use **Save Flash** for free?
 ### Game Support
 
 **Save Flash** supports a wide variety of games already and is constantly expanding its library.
-If you want to see a game supported, feel free to contact me or join the discord server.
+If you want to see a game supported, feel free to contact me or join the [Discord server](https://discord.gg/2GQg9QuFA7).
 
 Currently, the following 16 games are supported at open beta launch:
 - 20 Minutes till dawn
