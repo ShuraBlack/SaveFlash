@@ -1,5 +1,6 @@
 ![BigBanner_transparent](https://github.com/ShuraBlack/SaveFlash/assets/69372954/febfba39-593f-4e6b-9baa-091820c98aee)
-[![Static Badge](https://img.shields.io/badge/Download-Github_Release-blue?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/ShuraBlack/SaveFlash/releases) ![Static Badge](https://img.shields.io/badge/Supported_Games-17-orange?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Open_Beta-Launch-green?style=for-the-badge)
+[![Static Badge](https://img.shields.io/badge/Download-Github_Release-blue?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/ShuraBlack/SaveFlash/releases) ![Static Badge](https://img.shields.io/badge/-Windows%20Only-blue?style=for-the-badge&logo=windows)
+ ![Static Badge](https://img.shields.io/badge/Supported_Games-17-orange?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Open_Beta-Launch-green?style=for-the-badge)
  ![Static Badge](https://img.shields.io/badge/Closed_Source--purple?style=for-the-badge)
 
 
@@ -56,4 +57,7 @@ The premium subscriptions offer more space for more and bigger save files:
 
 If you have any questions, feel free to ask them in the discord server or contact me directly.
 - Does this Application has any requirements?
- - On launch the app will tell you if you need to install the JDK and provide you with a link (if needed)
+  - On launch the app will tell you if you need to install the JDK and provide you with a link (if needed)
+
+### Known Issues
+- The Layout seems to fall apart if you swap between different aspect ratios (move to another monitor)
