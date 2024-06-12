@@ -1,6 +1,6 @@
 ![BigBanner_transparent](https://github.com/ShuraBlack/SaveFlash/assets/69372954/febfba39-593f-4e6b-9baa-091820c98aee)
-[![Static Badge](https://img.shields.io/badge/Download-Github_Release-blue?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/ShuraBlack/SaveFlash/releases) ![Static Badge](https://img.shields.io/badge/-Windows%20Only-blue?style=for-the-badge&logo=windows)
- ![Static Badge](https://img.shields.io/badge/Supported_Games-17-orange?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Open_Beta-Launch-green?style=for-the-badge)
+[![Static Badge](https://img.shields.io/badge/Download-v1.4.1_beta-blue?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/ShuraBlack/SaveFlash/releases) ![Static Badge](https://img.shields.io/badge/-Windows%20Only-blue?style=for-the-badge&logo=windows)
+ ![Static Badge](https://img.shields.io/badge/Supported_Games-22-orange?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Open_Beta-Launch-green?style=for-the-badge)
  ![Static Badge](https://img.shields.io/badge/Closed_Source--purple?style=for-the-badge)
 
 
@@ -21,24 +21,31 @@ Why spend money for a single server, when you can use **Save Flash** for free?
 **Save Flash** supports a wide variety of games already and is constantly expanding its library.
 If you want to see a game supported, feel free to contact me or join the [Discord server](https://discord.gg/2GQg9QuFA7).
 
-Currently, the following games are supported:
-- 20 Minutes till dawn
-- Brotato
-- Dark Souls III
-- Death must die
-- Dyson Sphere Program
-- Generation Zero
-- Grounded
-- Heroes of Mighth & Magic III HD
-- Kingdoms Reborn
-- Lethal Company
-- Raft
-- Satisfactory
-- Terraria
-- The Forest
-- tModLoader
-- V Rising
-- Vampire Survivors
+<details>
+ <summary>Supported games list</summary>
+ 20 Minutes till dawn - 
+ Brotato - 
+ Core Keeper - 
+ Dark Souls III - 
+ Death must die - 
+ Dying Light - 
+ Dying Light 2 - 
+ Dyson Sphere Program - 
+ Generation Zero - 
+ Grounded - 
+ Heroes of Mighth & Magic III HD - 
+ Kingdoms Reborn - 
+ Lethal Company - 
+ Raft - 
+ Remnant - 
+ Satisfactory - 
+ Terraria - 
+ The Forest - 
+ tModLoader - 
+ V Rising - 
+ Valheim Ashlands - 
+ Vampire Survivors - 
+</details>
 
 ### Subscription
 
