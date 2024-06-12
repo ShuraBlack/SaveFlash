@@ -59,6 +59,9 @@ The premium subscriptions offer more space for more and bigger save files:
   (Even Minecraft would have enough space ;D)
 
 `Prices or storage capacity may change on release`
+```
+🔴 There is no shop at the moment, where you can buy subscription, while the application is in open beta
+```
 
 ### Questions
 
