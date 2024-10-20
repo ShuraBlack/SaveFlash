@@ -3,7 +3,7 @@
  ![Static Badge](https://img.shields.io/badge/Supported_Games-22-orange?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Open_Beta-Launch-green?style=for-the-badge)
  ![Static Badge](https://img.shields.io/badge/Closed_Source--purple?style=for-the-badge)
 
-
+# Discontinued | Service is still running
 
 Do you ever had the problem that your friend hosted a game session and went offline?
 Not anymore, since Save Flash is here to save the day!
